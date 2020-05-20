@@ -1,0 +1,7 @@
+access.log
+.DS_Store
+*.zip
+*.gz
+log/*.log.[0-9]
+assetts/photoshop
+!assetts/photoshop/home.mp4
